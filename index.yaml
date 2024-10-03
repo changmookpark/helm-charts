@@ -7,67 +7,67 @@ entries:
     dependencies:
     - condition: console.enabled
       name: console
-      repository: https://choihaemin.github.io/charts
+      repository: https://changmookpark.github.io/helm-charts
       version: '>=1.0.0'
     - condition: console-api.enabled
       name: console-api
-      repository: https://choihaemin.github.io/charts
+      repository: https://changmookpark.github.io/helm-charts
       version: '>=1.0.0'
     - condition: identity.enabled
       name: identity
-      repository: https://choihaemin.github.io/charts
+      repository: https://changmookpark.github.io/helm-charts
       version: '>=1.0.0'
     - condition: secret.enabled
       name: secret
-      repository: https://choihaemin.github.io/charts
+      repository: https://changmookpark.github.io/helm-charts
       version: '>=1.0.0'
     - condition: repository.enabled
       name: repository
-      repository: https://choihaemin.github.io/charts
+      repository: https://changmookpark.github.io/helm-charts
       version: '>=1.0.0'
     - condition: plugin.enabled
       name: plugin
-      repository: https://choihaemin.github.io/charts
+      repository: https://changmookpark.github.io/helm-charts
       version: '>=1.0.0'
     - condition: config.enabled
       name: config
-      repository: https://choihaemin.github.io/charts
+      repository: https://changmookpark.github.io/helm-charts
       version: '>=1.0.0'
     - condition: inventory.enabled
       name: inventory
-      repository: https://choihaemin.github.io/charts
+      repository: https://changmookpark.github.io/helm-charts
       version: '>=1.0.0'
     - condition: monitoring.enabled
       name: monitoring
-      repository: https://choihaemin.github.io/charts
+      repository: https://changmookpark.github.io/helm-charts
       version: '>=1.0.0'
     - condition: statistics.enabled
       name: statistics
-      repository: https://choihaemin.github.io/charts
+      repository: https://changmookpark.github.io/helm-charts
       version: '>=1.0.0'
     - condition: cost-analysis.enabled
       name: cost-analysis
-      repository: https://choihaemin.github.io/charts
+      repository: https://changmookpark.github.io/helm-charts
       version: '>=1.0.0'
     - condition: notification.enabled
       name: notification
-      repository: https://choihaemin.github.io/charts
+      repository: https://changmookpark.github.io/helm-charts
       version: '>=1.0.0'
     - condition: board.enabled
       name: board
-      repository: https://choihaemin.github.io/charts
+      repository: https://changmookpark.github.io/helm-charts
       version: '>=1.0.0'
     - condition: file-manager.enabled
       name: file-manager
-      repository: https://choihaemin.github.io/charts
+      repository: https://changmookpark.github.io/helm-charts
       version: '>=1.0.0'
     - condition: dashboard.enabled
       name: dashboard
-      repository: https://choihaemin.github.io/charts
+      repository: https://changmookpark.github.io/helm-charts
       version: '>=1.0.0'
     - condition: console-api-v2.enabled
       name: console-api-v2
-      repository: https://choihaemin.github.io/charts
+      repository: https://changmookpark.github.io/helm-charts
       version: '>=1.0.0'
     - condition: marketplace-assets.enabled
       name: marketplace-assets
@@ -75,15 +75,15 @@ entries:
       version: '>=1.0.0'
     - condition: supervisor.enabled
       name: supervisor
-      repository: https://choihaemin.github.io/charts
+      repository: https://changmookpark.github.io/helm-charts
       version: '>=1.0.0'
     - condition: provisioning.enabled
       name: provisioning
-      repository: https://choihaemin.github.io/charts
+      repository: https://changmookpark.github.io/helm-charts
       version: '>=1.0.0'
     - condition: supervisor.enabled
       name: spaceone-initializer
-      repository: https://choihaemin.github.io/charts
+      repository: https://changmookpark.github.io/helm-charts
       version: '>=1.0.0'
     - condition: vault.enabled
       name: vault
